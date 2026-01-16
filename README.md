@@ -5,7 +5,7 @@ Bienvenue dans ce repository contenant les cours et exercices Python pour l'appr
 ## 📁 Structure du projet
 
 ```
-├── TP1/                          # TP Git - Introduction au versioning
+├── TP1/                              # TP Git - Introduction au versioning
 │   ├── README-GIT.md
 │   ├── .gitignore
 │   ├── contenus/
@@ -14,14 +14,17 @@ Bienvenue dans ce repository contenant les cours et exercices Python pour l'appr
 │   │   └── image.png
 │   └── principal.md
 │
-├── TP_Python/                    # Cours Python
+├── TP_Python/                        # Cours Python
 │   ├── variable_et_types_python.py   # Cours 1 : Variables et types de données
 │   ├── script_et_structures.py       # Cours 2 : Scripts et structures de contrôle
-│   └── fonctions_et_fichiers.py      # Cours 3 : Fonctions et fichiers
+│   ├── fonctions_et_fichiers.py      # Cours 3 : Fonctions et fichiers
+│   └── Dataframe/                    # Cours 4 : Pandas et DataFrames
+│       ├── dataframe.py
+│       └── meteo_exemple.csv
 │
-├── VERSION                       # Numéro de version actuel
-├── CHANGELOG.md                  # Journal des modifications
-└── README.md                     # Ce fichier
+├── VERSION                           # Numéro de version actuel
+├── CHANGELOG.md                      # Journal des modifications
+└── README.md                         # Ce fichier
 ```
 
 ## 🐍 Contenu des cours Python
@@ -61,6 +64,16 @@ Bienvenue dans ce repository contenant les cours et exercices Python pour l'appr
 - Visualisation avec Matplotlib et Plotly
 - Lecture de fichiers CSV avec Pandas
 
+### Cours 4 : Pandas et DataFrames ✨ *Nouveau*
+**Dossier** : `TP_Python/Dataframe/`
+
+- **Séries Pandas** : création, index, attributs
+- **DataFrames** : tableaux 2D avec lignes et colonnes nommées
+- **Accès aux données** : `loc`, `iloc`, `at`, `iat`
+- **Filtrage** : sélection conditionnelle, tri
+- **Modification** : ajout/suppression de colonnes
+- **Fichiers** : lecture et écriture CSV
+
 ## 🚀 Installation
 
 ### Prérequis
@@ -77,11 +90,19 @@ Pour exécuter un cours :
 ```bash
 cd TP_Python
 python variable_et_types_python.py
+python script_et_structures.py
+python fonctions_et_fichiers.py
+python Dataframe/dataframe.py
 ```
 
 ## 📝 Versioning
 
 Ce projet utilise le [Semantic Versioning](https://semver.org/lang/fr/).
+
+| Version | Date       | Description                          |
+|---------|------------|--------------------------------------|
+| 1.1.0   | 2026-01-16 | Ajout du cours Pandas/DataFrames     |
+| 1.0.0   | 2026-01-16 | Version initiale avec 3 cours Python |
 
 - Voir le fichier `VERSION` pour la version actuelle
 - Voir le fichier `CHANGELOG.md` pour l'historique des modifications
@@ -94,4 +115,3 @@ Ce projet utilise le [Semantic Versioning](https://semver.org/lang/fr/).
 ## 📄 Licence
 
 Ce projet est destiné à un usage éducatif.
-
