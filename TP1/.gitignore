@@ -1,0 +1,31 @@
+﻿# Fichiers texte
+*.txt
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*~
+
+# Dossiers de build/compilation
+build/
+dist/
+bin/
+obj/
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Fichiers systeme
+Thumbs.db
+.DS_Store
+
+# Mots de passe et secrets (NE JAMAIS VERSIONNER!)
+*.env
+secrets/
+passwords/
