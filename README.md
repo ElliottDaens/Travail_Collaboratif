@@ -22,6 +22,9 @@ Bienvenue dans ce repository contenant les cours et exercices Python pour l'appr
 │       ├── dataframe.py
 │       └── meteo_exemple.csv
 │
+├── Autres/                           # Exercices et corrections
+│   └── Correction_Exam.py            # Exercices corrigés d'examen
+│
 ├── VERSION                           # Numéro de version actuel
 ├── CHANGELOG.md                      # Journal des modifications
 └── README.md                         # Ce fichier
@@ -101,6 +104,7 @@ Ce projet utilise le [Semantic Versioning](https://semver.org/lang/fr/).
 
 | Version | Date       | Description                          |
 |---------|------------|--------------------------------------|
+| 1.1.1   | 2026-01-28 | Corrections dans Correction_Exam.py |
 | 1.1.0   | 2026-01-16 | Ajout du cours Pandas/DataFrames     |
 | 1.0.0   | 2026-01-16 | Version initiale avec 3 cours Python |
 
