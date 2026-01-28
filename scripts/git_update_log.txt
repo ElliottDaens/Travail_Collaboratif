@@ -1,0 +1,139 @@
+[2026-01-28 15:52:35] === Debut de la mise a jour des depots Git ===
+[2026-01-28 15:52:35] [INFO] Mise a jour de Travail_Collaboratif (principal)...
+[2026-01-28 15:52:35]    Branche actuelle : main
+[2026-01-28 15:52:36] [OK] Travail_Collaboratif (principal) : Deja a jour
+[2026-01-28 15:52:36] 
+[2026-01-28 15:52:36] [INFO] Mise a jour de TableauxBordsDescriptif...
+[2026-01-28 15:52:36] [INFO] TableauxBordsDescriptif : Depot vide (aucun commit)
+[2026-01-28 15:52:36] === Fin de la mise a jour ===
+[2026-01-28 15:52:36] Resume : 2 succes, 0 erreurs
+[2026-01-28 15:52:36] 
+[2026-01-28 15:57:25] === Debut de la mise a jour des depots Git ===
+[2026-01-28 15:57:25] [INFO] Mise a jour de Travail_Collaboratif (principal)...
+[2026-01-28 15:57:25]    Branche actuelle : main
+[2026-01-28 15:57:26] [OK] Travail_Collaboratif (principal) : Deja a jour
+[2026-01-28 15:57:26] 
+[2026-01-28 15:57:26] [INFO] Mise a jour de TableauxBordsDescriptif...
+[2026-01-28 15:57:26] [INFO] TableauxBordsDescriptif : Depot vide (aucun commit)
+[2026-01-28 15:57:26] === Fin de la mise a jour ===
+[2026-01-28 15:57:26] Resume : 2 succes, 0 erreurs
+[2026-01-28 15:57:26] 
+[2026-01-28 16:00:08] === Debut de la mise a jour des depots Git ===
+[2026-01-28 16:00:08] [INFO] Mise a jour de Travail_Collaboratif (principal)...
+[2026-01-28 16:00:08]    Branche actuelle : main
+[2026-01-28 16:00:08] [OK] Travail_Collaboratif (principal) : Deja a jour
+[2026-01-28 16:00:08] 
+[2026-01-28 16:00:08] [INFO] Mise a jour de TableauxBordsDescriptif...
+[2026-01-28 16:00:08]    Branche actuelle : main
+[2026-01-28 16:00:09] [OK] TableauxBordsDescriptif : Deja a jour
+[2026-01-28 16:00:09] 
+[2026-01-28 16:00:09] === Fin de la mise a jour ===
+[2026-01-28 16:00:09] Resume : 2 succes, 0 erreurs
+[2026-01-28 16:00:09] 
+[2026-01-28 16:00:26] === Debut de la mise a jour des depots Git ===
+[2026-01-28 16:00:26] [INFO] Mise a jour de Travail_Collaboratif (principal)...
+[2026-01-28 16:00:26]    Branche actuelle : main
+[2026-01-28 16:00:27] [OK] Travail_Collaboratif (principal) : Deja a jour
+[2026-01-28 16:00:27] 
+[2026-01-28 16:00:27] [INFO] Mise a jour de TableauxBordsDescriptif...
+[2026-01-28 16:00:27]    Branche actuelle : main
+[2026-01-28 16:00:28] [OK] TableauxBordsDescriptif : Deja a jour
+[2026-01-28 16:00:28] 
+[2026-01-28 16:00:28] === Fin de la mise a jour ===
+[2026-01-28 16:00:28] Resume : 2 succes, 0 erreurs
+[2026-01-28 16:00:28] 
+[2026-01-28 16:00:44] === Debut de la mise a jour des depots Git ===
+[2026-01-28 16:00:44] [INFO] 2 depot(s) Git trouve(s)
+[2026-01-28 16:00:44] [INFO] Mise a jour de Travail_Collaboratif (principal)...
+[2026-01-28 16:00:44] [ERREUR] Travail_Collaboratif (principal) : Erreur : Le terme « C:\Users\Ellie\OneDrive\Bureau\2025-2026\Git\TP_Python\.git\git.exe » n'est pas reconnu comme nom d'applet de commande, fonction, fichier de script ou programme exécutable. Vérifiez l'orthographe du nom, ou si un chemin d'accès existe, vérifiez que le chemin d'accès est correct et réessayez.
+[2026-01-28 16:00:44] 
+[2026-01-28 16:00:44] [INFO] Mise a jour de TableauxBordsDescriptif...
+[2026-01-28 16:00:44] [ERREUR] TableauxBordsDescriptif : Erreur : Le terme « C:\Users\Ellie\OneDrive\Bureau\2025-2026\Git\TP_Python\.git\git.exe » n'est pas reconnu comme nom d'applet de commande, fonction, fichier de script ou programme exécutable. Vérifiez l'orthographe du nom, ou si un chemin d'accès existe, vérifiez que le chemin d'accès est correct et réessayez.
+[2026-01-28 16:00:44] 
+[2026-01-28 16:00:44] === Fin de la mise a jour ===
+[2026-01-28 16:00:44] Resume : 0 succes, 2 erreurs
+[2026-01-28 16:00:44] 
+[2026-01-28 16:01:05] === Debut de la mise a jour des depots Git ===
+[2026-01-28 16:01:05] [INFO] 2 depot(s) Git trouve(s)
+[2026-01-28 16:01:05] [INFO] Mise a jour de Travail_Collaboratif (principal)...
+[2026-01-28 16:01:05] [ERREUR] Travail_Collaboratif (principal) : Erreur : Le terme « C:\Users\Ellie\OneDrive\Bureau\2025-2026\Git\TP_Python\.git\git.exe » n'est pas reconnu comme nom d'applet de commande, fonction, fichier de script ou programme exécutable. Vérifiez l'orthographe du nom, ou si un chemin d'accès existe, vérifiez que le chemin d'accès est correct et réessayez.
+[2026-01-28 16:01:05] 
+[2026-01-28 16:01:05] [INFO] Mise a jour de TableauxBordsDescriptif...
+[2026-01-28 16:01:05] [ERREUR] TableauxBordsDescriptif : Erreur : Le terme « C:\Users\Ellie\OneDrive\Bureau\2025-2026\Git\TP_Python\.git\git.exe » n'est pas reconnu comme nom d'applet de commande, fonction, fichier de script ou programme exécutable. Vérifiez l'orthographe du nom, ou si un chemin d'accès existe, vérifiez que le chemin d'accès est correct et réessayez.
+[2026-01-28 16:01:05] 
+[2026-01-28 16:01:05] === Fin de la mise a jour ===
+[2026-01-28 16:01:05] Resume : 0 succes, 2 erreurs
+[2026-01-28 16:01:05] 
+[2026-01-28 16:01:33] === Debut de la mise a jour des depots Git ===
+[2026-01-28 16:01:33] [INFO] 2 depot(s) Git trouve(s)
+[2026-01-28 16:01:33] [INFO] Mise a jour de Travail_Collaboratif (principal)...
+[2026-01-28 16:01:33] [ERREUR] Travail_Collaboratif (principal) : Erreur : Le terme « C:\Users\Ellie\OneDrive\Bureau\2025-2026\Git\TP_Python\.git » n'est pas reconnu comme nom d'applet de commande, fonction, fichier de script ou programme exécutable. Vérifiez l'orthographe du nom, ou si un chemin d'accès existe, vérifiez que le chemin d'accès est correct et réessayez.
+[2026-01-28 16:01:33] 
+[2026-01-28 16:01:33] [INFO] Mise a jour de TableauxBordsDescriptif...
+[2026-01-28 16:01:33] [ERREUR] TableauxBordsDescriptif : Erreur : Le terme « C:\Users\Ellie\OneDrive\Bureau\2025-2026\Git\TP_Python\.git » n'est pas reconnu comme nom d'applet de commande, fonction, fichier de script ou programme exécutable. Vérifiez l'orthographe du nom, ou si un chemin d'accès existe, vérifiez que le chemin d'accès est correct et réessayez.
+[2026-01-28 16:01:33] === Fin de la mise a jour ===
+[2026-01-28 16:01:33] Resume : 0 succes, 2 erreurs
+[2026-01-28 16:01:33] 
+[2026-01-28 16:02:00] === Debut de la mise a jour des depots Git ===
+[2026-01-28 16:02:00] [INFO] 2 depot(s) Git trouve(s)
+[2026-01-28 16:02:00] [INFO] Mise a jour de Travail_Collaboratif (principal)...
+[2026-01-28 16:02:00] [ERREUR] Travail_Collaboratif (principal) : Erreur : Le terme « C:\Users\Ellie\OneDrive\Bureau\2025-2026\Git\TP_Python\.git\git.exe » n'est pas reconnu comme nom d'applet de commande, fonction, fichier de script ou programme exécutable. Vérifiez l'orthographe du nom, ou si un chemin d'accès existe, vérifiez que le chemin d'accès est correct et réessayez.
+[2026-01-28 16:02:00] 
+[2026-01-28 16:02:00] [INFO] Mise a jour de TableauxBordsDescriptif...
+[2026-01-28 16:02:00] [ERREUR] TableauxBordsDescriptif : Erreur : Le terme « C:\Users\Ellie\OneDrive\Bureau\2025-2026\Git\TP_Python\.git\git.exe » n'est pas reconnu comme nom d'applet de commande, fonction, fichier de script ou programme exécutable. Vérifiez l'orthographe du nom, ou si un chemin d'accès existe, vérifiez que le chemin d'accès est correct et réessayez.
+[2026-01-28 16:02:00] 
+[2026-01-28 16:02:00] === Fin de la mise a jour ===
+[2026-01-28 16:02:00] Resume : 0 succes, 2 erreurs
+[2026-01-28 16:02:00] 
+[2026-01-28 16:02:22] === Debut de la mise a jour des depots Git ===
+[2026-01-28 16:02:23] [INFO] 2 depot(s) Git trouve(s)
+[2026-01-28 16:02:23] [INFO] Mise a jour de Travail_Collaboratif (principal)...
+[2026-01-28 16:02:23]    Branche actuelle : main
+[2026-01-28 16:02:23] [OK] Travail_Collaboratif (principal) : Deja a jour
+[2026-01-28 16:02:23] 
+[2026-01-28 16:02:23] [INFO] Mise a jour de TableauxBordsDescriptif...
+[2026-01-28 16:02:23]    Branche actuelle : main
+[2026-01-28 16:02:25] [SUCCES] TableauxBordsDescriptif : Mis a jour avec succes
+[2026-01-28 16:02:25]    git.exe : From https://github.com/emiliepoisson/TableauxBordsDescriptif
+Au caractère C:\Users\Ellie\OneDrive\Bureau\2025-2026\Git\scripts\update_all_git_repos.ps1:124 : 27
++ ...       $pullOutput = & $gitExe pull origin $currentBranch 2>&1 | Out-S ...
++                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (From https://gi...BordsDescriptif:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ * branch            main       -> FETCH_HEAD
+Updating 7033f8e..d82acc1
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[2026-01-28 16:02:25] 
+[2026-01-28 16:02:25] === Fin de la mise a jour ===
+[2026-01-28 16:02:25] Resume : 2 succes, 0 erreurs
+[2026-01-28 16:02:25] 
+[2026-01-28 16:03:19] === Debut de la mise a jour des depots Git ===
+[2026-01-28 16:03:19] [INFO] 2 depot(s) Git trouve(s)
+[2026-01-28 16:03:19] [INFO] Mise a jour de Travail_Collaboratif (principal)...
+[2026-01-28 16:03:19]    Branche actuelle : main
+[2026-01-28 16:03:19] [OK] Travail_Collaboratif (principal) : Deja a jour
+[2026-01-28 16:03:19] 
+[2026-01-28 16:03:19] [INFO] Mise a jour de TableauxBordsDescriptif...
+[2026-01-28 16:03:20]    Branche actuelle : main
+[2026-01-28 16:03:21] [SUCCES] TableauxBordsDescriptif : Mis a jour avec succes
+[2026-01-28 16:03:21]    git.exe : From https://github.com/emiliepoisson/TableauxBordsDescriptif
+Au caractère C:\Users\Ellie\OneDrive\Bureau\2025-2026\Git\scripts\update_all_git_repos.ps1:124 : 27
++ ...       $pullOutput = & $gitExe pull origin $currentBranch 2>&1 | Out-S ...
++                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (From https://gi...BordsDescriptif:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ * branch            main       -> FETCH_HEAD
+Updating d82acc1..33f9b15
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[2026-01-28 16:03:21] 
+[2026-01-28 16:03:21] === Fin de la mise a jour ===
+[2026-01-28 16:03:21] Resume : 2 succes, 0 erreurs
+[2026-01-28 16:03:21] 

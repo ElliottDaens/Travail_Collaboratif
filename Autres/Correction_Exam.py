@@ -60,8 +60,6 @@ def programme_5():
     while n>0:
         myst = myst + a
         n=n-1
-        if b<0:
-            myst = -myst
-        print(a, "op",b, "=", myst)
-
-programme_5()
+    if b<0:
+        myst = -myst
+    print(a, "op",b, "=", myst)
